@@ -22,19 +22,32 @@ This project is designed especially for college students to learn HTML while spr
 
 ## The CowCare Hub website consists of the following pages:
 
-🏠 Home – Overview of all website content
+🏠 Home (index.html)
+→ Overview of the entire website and quick access to all sections
 
-ℹ️ About – Purpose and mission of CowCare Hub
+ℹ️ About Us (about.html)
+→ Information about CowCare Hub, its mission and objectives
 
-🐄 Cow Breeds – Indigenous Indian cow breeds
+📢 Awareness (awareness.html)
+→ Awareness about cow protection, welfare and social responsibility
 
-🩺 Diseases – Common cow diseases & prevention
+🌿 Care & Nutrition (carenutrition.html)
+→ Proper food, nutrition, hygiene and daily care tips for cows
 
-🌿 Care – Food, shelter & hygiene tips
+🐄 Cow Breeds (cow-breed.html)
+→ Information about indigenous and popular Indian cow breeds
 
-🛠 Services – Veterinary & farmer support
+🩺 Diseases & Symptoms (diseaseandsymptoms.html)
+→ Common cow diseases, their symptoms and basic prevention
 
-📞 Contact – Communication details
+🏛 Government Schemes (gov-schemes.html)
+→ Government schemes and support programs for cow welfare and farmers
+
+🛠 Services (services.html)
+→ Veterinary services, farmer support and guidance
+
+📞 Contact Us (contact.html)
+→ Contact details and communication information
 
 ## ✨ Key Features
 
