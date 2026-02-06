@@ -4,7 +4,7 @@
 
 CowCare Hub is an educational and awareness-based HTML-only website project focused on cow care, indigenous cow breeds, common cow diseases, and the importance of cows in agriculture and Indian culture.
 
-This project is specially designed for students and aims to promote:
+### This project is specially designed for students and aims to promote:
 
 Cow welfare 
 
@@ -26,7 +26,7 @@ Awareness about cow health
 
  Care – Proper food, shelter, and hygiene tips
 
- Services – Veterinary help & farmer support
+ Services – Veterinary help & farmer support 
 
  Contact – Get in touch
 
@@ -87,3 +87,9 @@ This project is created for educational purposes only.
 ##  Acknowledgement
 
 Special thanks to teachers and mentors for their guidance and support.
+
+@Surbhi-Patle-11
+@Romapanchal15
+@AryaThube-9
+@TusharKhatale16
+@anjalimhase24
