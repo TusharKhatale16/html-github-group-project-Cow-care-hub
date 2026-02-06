@@ -106,6 +106,12 @@ Diseases
 🖼️ Images & Icons
 
 ## 👩‍🤝‍👩 Contributors
+Surabhi Patl (Group Leader)
+Tushar Khatale(Group Member)
+Arya Thube(Group Member)
+Roma Panchal(Group Member)
+Anjali Mhase(Group Member)
+
 https://github.com/Surbhi-Patle-11/html-github-group-project-Cow-care-hub/graphs/contributors
 
 
